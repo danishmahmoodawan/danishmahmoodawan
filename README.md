@@ -12,7 +12,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
+
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -27,15 +27,14 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
+- :computer: I'm currently working on React
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-danish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danishmahmoodawan/)](https://www.linkedin.com/in/danishmahmoodawan/) [![Twitter Badge](https://img.shields.io/badge/-@danish-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DanishAwan63)](https://twitter.com/DanishAwan63) [![Facebook Badge](https://img.shields.io/badge/-@danish-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/danish.mahmood.awan/)](https://www.facebook.com/danish.mahmood.awan/) [![Instagram Badge](https://img.shields.io/badge/-@danish-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/danishmahmoodawan/)](https://www.instagram.com/danishmahmoodawan/)
+[![Linkedin Badge](https://img.shields.io/badge/-danish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danishmahmoodawan/)](https://www.linkedin.com/in/danishmahmoodawan/) [![Twitter Badge](https://img.shields.io/badge/-danish-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DanishAwan63)](https://twitter.com/DanishAwan63) [![Facebook Badge](https://img.shields.io/badge/-danish-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/danish.mahmood.awan/)](https://www.facebook.com/danish.mahmood.awan/) [![Instagram Badge](https://img.shields.io/badge/-danish-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/danishmahmoodawan/)](https://www.instagram.com/danishmahmoodawan/)
 
