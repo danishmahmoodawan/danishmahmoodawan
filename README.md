@@ -22,7 +22,7 @@
 - :computer: I'm currently working on React Js
 - :hourglass_flowing_sand:  Exploring NFT dApps
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Frontend Dev at Galictic Nft Studio
+- :man_technologist: Frontend Developer at Galictic Nft Studio
 - :man_technologist: Former Senior Web Developer at Hammani tech
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
